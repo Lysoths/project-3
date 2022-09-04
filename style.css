@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-   height: 100vh; 
+  height: 100vh;
 }
 
 .container {
@@ -127,12 +127,12 @@ body {
   font-weight: 900;
   color: hsl(210, 46%, 95%);
   font-size: 1rem;
-  line-height: 1.7rem;
+  line-height: 1.3rem;
 }
 
 .data-2 article {
   color: hsla(217, 30%, 81%, 0.705);
-  line-height: 1.7rem;
+  line-height: 1.3rem;
 }
 
 .data article,
@@ -144,12 +144,12 @@ body {
   font-weight: 900;
   color: hsl(217, 19%, 35%);
   font-size: 1rem;
-  line-height: 1.7rem;
+  line-height: 1.3rem;
 }
 
 .data-4 article {
   color: hsla(216, 13%, 57%, 0.705);
-  line-height: 1.7rem;
+  line-height: 1.3rem;
 }
 
 @media screen and (max-width: 1400px) {
