@@ -29,8 +29,7 @@ body {
 }
 
 .main-container-two {
-  width: 23%;
-  height: 80%;
+  width: 23%;  
   padding: 1.5rem;
   gap: 1.5rem;
   display: flex;
